@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on being accepted into CODE KENTUCKY. 
+- 🔭 I’m currently in CODE KENTUCKY. 
 - 🌱 I’m currently learning coding. 
 - 👯 I’m looking to collaborate on new projects. 
 - 📫 How to reach me: TrishS7777@gmail.com 
