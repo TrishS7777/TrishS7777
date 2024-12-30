@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently in CODE KENTUCKY. 
-- 🌱 I’m currently learning coding. 
+- 🌱 I’m currently learning Data Analytics with Python.
 - 👯 I’m looking to collaborate on new projects. 
 - 📫 How to reach me: TrishS7777@gmail.com 
 - ⚡ Fun fact: I'm a Mutuel Clerk (Teller) at the Thoroughbred racetracks in Kentucky. I've also traveled to work at Pimlico & Belmont Racetracks, and "The Little Brown Jug" at 
